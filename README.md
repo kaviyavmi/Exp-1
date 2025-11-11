@@ -28,7 +28,6 @@ Communication Diagram
 Package Diagram
 Design the database with tables for Customer, Account, and Transaction.
 
-
 # UML DIAGRAMS:
 
 ## USE CASE DIAGRAM:
