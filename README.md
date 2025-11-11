@@ -23,11 +23,11 @@ Step 3: System Design
 
 Draw UML diagrams to represent the system:
 
-Use Case Diagram
-Class Diagram
-Activity Diagram
-Sequence Diagram
-Communication Diagram
+Use Case Diagram,
+Class Diagram,
+Activity Diagram,
+Sequence Diagram,
+Communication Diagram,
 Package Diagram
 
 Design the database with tables for Customer, Account, and Transaction.
